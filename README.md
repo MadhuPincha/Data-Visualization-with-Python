@@ -1,1 +1,1 @@
-# Data visualization using Matplotib, Seaborn, Plotly
+# Data visualization using Matplotlib, Seaborn, Plotly
